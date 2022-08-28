@@ -1,0 +1,17 @@
+
+
+h1{
+    background-color: rgb(151, 1, 177);
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+P{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
